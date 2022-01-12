@@ -1,158 +1,109 @@
-# Terra Grant Proposal Template
 
-### **FINAL DOCUMENT MUST BE SUBMITTED IN THE FORM OF A GITHUB REPO FORMATTED IN MARKDOWN**
+# Terra Grant Proposal Ganz
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a > (such as this one) can be removed.See the Terra Grants Process on how to submit a proposal.
-> 
-- **Project Name:** Name of your project (e.g. Fantasy Investar)
-- **Team Name:** Legal name of your team (e.g. Fantary Investar)
-- **Payment Address:** Terra Address
-
-> ⚠️ The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.
-> 
+- **Project Name:** Ganz
+- **Team Name:** Ganz
+- **Payment Address:** terra1mn7gf3qq6l8jg72rlvjd2vw6vwxkz8lguhss0g
 
 ## Project Overview
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful Terra grant), please provide name and/or pull request of said grant on the first line of this section.
-
 ### Overview
 
-Please provide the following:
+What is Ganz
+The Ganz project is a crypto-games platform that allows players to explore games, store all of their gaming data in a single profile, and manage and sell their in-game assets.
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Terra.
-- An indication of why your team is interested in creating this project.
+And from the developers' side, Ganz is also attempting to ease the blockchain game development process by creating a framework that will suit the demands of most blockchain games.
+
+it's a place where you can publish your game and use some features to simplify your development. For players - single space for all their games.
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
 - Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
+
 - An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is *not* or will *not* provide or implement
-    - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+
+React, Mongodb, Terra.js, web3,
 
 ### Ecosystem Fit
 
 Help us locate your project in the Terra landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+
+create NFT revenue
+
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+
+consumers - Gamers, Developers
+
 - What need(s) does your project meet?
-- Are there any other projects similar to yours in the Terra ecosystem?
-    - If so, how is your project different?
-    - If not, are there similar projects in related ecosystems?
+
+We can see that the crypto-gaming industry is rapidly expanding. Every day, a growing number of people join this community, whether as players or as creators of exceptional gaming projects. People are always looking for new and exciting games to play. However, while they may discover regular games on traditional gaming platforms, crypto games are distributed independently, making it substantially more difficult for gamers to locate and manage them.
+
+The Ganz project aims to solve this problem by creating a crypto-games platform that allows users to explore games, store all of their gaming data in a single profile, and manage and trade their in-game assets.
 
 ## Team
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+Natnael Getenew
+Founder, CEO
+Natnael is a Serial entrepreneur and senior blockchain developer with 6 years of experience in Full Stack development. and has worked as a full-stack developer for many companies for years. His is also Founder of Smartquiz, Issuehunter.
+
+Natnael has also previously founded Kokoro (A smart coin built on the Chia Network for the Sirius Labs X Chia Global Chia Hackathon) and SmartQuiz (an AI-Based automatic quiz generator).
+
+He was also a former core team member and co-founder of ZeroBridge (which allows the transfer of tokens from Ethereum compatible chains to Algorand) that the Algorand Foundation awarded a SupaGrant.
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. wagmi@terra.money)
+- **Contact Name:** Natnael Getenew
+- **Contact Email:** natnaelgetenew@gmail.com
 - **Website:**
-
-### Legal Structure
-
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line.
-- **Registered Legal Entity:** Name of your registered legal entity, if available.
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-If anyone on your team has applied for a grant to Terra previously, please list the name of the project and legal entity here.
+https://www.linkedin.com/in/natnaelgetenew/
 
 ### Team Code Repos
 
-- [https://github.com/](https://github.com/)<your_organisation>
-- [https://github.com/](https://github.com/)<your_organisation>/<project_1>
-- [https://github.com/](https://github.com/)<your_organisation>/<project_2>
+- [https://github.com/Garinmckayl](https://github.com/Garinmckayl)
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- [https://github.com/](https://github.com/)<team_member_1>
-- [https://github.com/](https://github.com/)<team_member_2>
+- [https://github.com/Garinmckayl](https://github.com/Garinmckayl)
 
 ### Team LinkedIn Profiles (if available)
 
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_1>
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_2>
+- [https://www.linkedin.com/in/natnaelgetenew/](https://www.linkedin.com/in/natnaelgetenew/)
 
 ## Development Status
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or RFP (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from Terra
-- previous interface iterations, such as mock-ups and wireframes.
+production/Ideation,
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Terra. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. *Treat it as a contract*; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested *per milestone*.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> If any of your deliverables is based on somebody else's work, make sure you work and publish under the terms of the license of the respective project and that you highlight this fact in your milestone documentation and in the source code if applicable! Teams that submit others' work without attributing it will be immediately terminated.
-> 
+2 months - smart contract deploy
+1 month - UI integration
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):** Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k for initial grants* and $100k for follow-up grants. (e.g. 12,000 USD). This and the costs for each milestone need to be in USD; if the grant is paid out in Luna, the amount will be calculated according to the exchange rate at the time of payment.
-
-### Milestone 1 Example — Implement Terra Modules
-
-- **Estimated duration:** 1 month
-- **FTE:** 2
-- **Costs:** 8,000 USD
-
-[Example Milestone Table](https://github.com/terramoney/terra-money-grants/blob/main/Untitled%20Database%20076bcbe63d9348558de4e6688af1d89e.csv)
-
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:** 1
-- **Costs:** 4,000 USD
-
-...
+- **Total Estimated Duration:** 3 months
+- **Full-Time Equivalent (FTE):** 2 FTE
+- **Total Costs:** $10k for smart contract deployment, $5k for UI
 
 ## Future Plans
 
-Please include here
-
 - how you intend to use, enhance, promote and support your project in the short term, and
+
+create $GNZ tokensale and use money to marketing on Luna
+
 - the team's long-term plans and intentions in relation to it.
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** Terra Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+**How did you hear about the Grants Program?** Terra Website
 
 - Work you have already done.
+
 - Wheter there are any other teams who have already contributed (financially) to the project.
 - Previous grants you may have applied for.
