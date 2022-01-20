@@ -41,7 +41,7 @@ Help us locate your project in the Terra landscape and what problems it tries to
 
 - Where and how does your project fit into the ecosystem?
 
-create NFT revenue
+Open a new income stream for developers, create NFT revenue
 
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
@@ -63,7 +63,7 @@ Natnael is a Serial entrepreneur and senior blockchain developer with 6 years of
 
 Natnael has also previously founded Kokoro (A smart coin built on the Chia Network for the Sirius Labs X Chia Global Chia Hackathon top 5 defi finalist) and SmartQuiz (an AI-Based automatic quiz generator).
 
-He was also a former core team member and co-founder of ZeroBridge (which allows the transfer of tokens from Ethereum compatible chains to Algorand) that the Algorand Foundation awarded a SupaGrant.
+He was also a former core team member and co-founder of ZeroBridge a multi chain bridge (which allows the transfer of tokens from Ethereum compatible chains to Algorand) that the Algorand Foundation awarded a SupaGrant.
 
 ### Contact
 
@@ -109,6 +109,8 @@ production/Ideation,
 create $GNZ tokensale and use money to marketing on Luna
 
 - the team's long-term plans and intentions in relation to it.
+
+my plan is after launch, to scale and market Ganz effectively and recruit developers that can help with the development of the platform.
 
 ## Additional Information
 
