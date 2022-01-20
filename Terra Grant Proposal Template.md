@@ -18,7 +18,18 @@ it's a place where you can publish your game and use some features to simplify y
 
 ### Project Details
 
-- Mockups/designs of any UI components
+- Mockups/designs of any UI components 
+
+![Logo](/img/logo.png "Logo")
+![Logo](/img/logosmall.png "Logo")
+![Logo](/img/hero.png "Logo")
+![Logo](/img/single.png "Logo")
+![Logo](/img/demo.png "Logo")
+
+
+
+
+
 
 - An overview of the technology stack to be used
 
@@ -50,7 +61,7 @@ Natnael Getenew
 Founder, CEO
 Natnael is a Serial entrepreneur and senior blockchain developer with 6 years of experience in Full Stack development. and has worked as a full-stack developer for many companies for years. His is also Founder of Smartquiz, Issuehunter.
 
-Natnael has also previously founded Kokoro (A smart coin built on the Chia Network for the Sirius Labs X Chia Global Chia Hackathon) and SmartQuiz (an AI-Based automatic quiz generator).
+Natnael has also previously founded Kokoro (A smart coin built on the Chia Network for the Sirius Labs X Chia Global Chia Hackathon top 5 defi finalist) and SmartQuiz (an AI-Based automatic quiz generator).
 
 He was also a former core team member and co-founder of ZeroBridge (which allows the transfer of tokens from Ethereum compatible chains to Algorand) that the Algorand Foundation awarded a SupaGrant.
 
